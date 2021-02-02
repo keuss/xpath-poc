@@ -1,5 +1,6 @@
 # xpath-poc
-xpath-poc
+
+Some JAVA xPath test and with jxpath lib.
 
 ## Test with JUnit
 
